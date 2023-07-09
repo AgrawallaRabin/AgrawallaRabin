@@ -1,16 +1,19 @@
-### Hi there 👋
+Here is a possible readme.md file for your GitHub profile:
+
+# Hi, I'm Rabin Agrawalla 👋
+
+I'm a web development enthusiast who is currently learning how to create awesome websites using HTML, CSS, JS and other web technologies. I'm passionate about coding, learning new things, and solving problems.
+
+## 🚀 My skills
+
+- HTML
+- CSS
+- JS
+- React
 
 
-**AgrawallaRabin/AgrawallaRabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- rabincnb@gmail.com
+- www.linkedin.com/in/rabin-agrawalla/
 
