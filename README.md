@@ -14,6 +14,6 @@ I'm a web development enthusiast who is currently learning how to create awesome
 
 ## 📫 How to reach me
 
-- rabincnb@gmail.com
+- rabinbtech21@vssut.ac.in
 - www.linkedin.com/in/rabin-agrawalla/
 
